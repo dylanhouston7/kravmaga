@@ -7,12 +7,16 @@
     "message": "About",
     "_description": "The text for the About top-level navigation item"
   },
+  "app_krav_maga_techniques": {
+    "message": "Techniques",
+    "_description": "The text for the Krav Maga techniques page"
+  },
   "app_nav_home": {
     "message": "Home",
     "_description": "The text for the Home top-level navigation item"
   },
   "home_title": {
-    "message": "SKY UX Template",
+    "message": "Dylan's Krav Maga SPA",
     "_description": "Title for the home component"
   }
 }
